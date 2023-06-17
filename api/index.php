@@ -1131,9 +1131,9 @@ height: 56px;
                             <span></span>
                             <p>Contact me:</p>
                             <div>
-                                <a href="https://t.me/sultanagro_uz"><img src="./img/icons8-telegram-100.png" alt="Telegram"></a>
-                                <a href="https://wa.me/998994690007"><img src="./img/icons8-whatsapp-96.png" alt="WhatsApp"></a>
-                                <a href="mailto:manager@sultanagro.uz"><img src="./img/icons8-mail-100.png" alt="Email"></a>
+                                <a href="https://t.me/sultanagro_uz"><img src="/api/img/icons8-telegram-100.png" alt="Telegram"></a>
+                                <a href="https://wa.me/998994690007"><img src="/api/img/icons8-whatsapp-96.png" alt="WhatsApp"></a>
+                                <a href="mailto:manager@sultanagro.uz"><img src="/api/img/icons8-mail-100.png" alt="Email"></a>
                             </div>
                         </div>
                         <div class="follow-me">
